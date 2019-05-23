@@ -8,3 +8,6 @@
 Fork, download and destroy
 
 
+foto: 
+
+[alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/hoi.jpg)
